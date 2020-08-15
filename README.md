@@ -17,6 +17,8 @@ https://github.com/KriAga/Pima-Indians-Diabetes-Dataset-Classification/blob/mast
 https://github.com/KriAga/Pima-Indians-Diabetes-Dataset-Classification/blob/master/EDA%20Diabetes.ipynb
 ### Data
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
+### Model Evaluation
+https://towardsdatascience.com/how-to-train-and-compare-machine-learning-models-with-few-lines-of-code-b1d5e1e266dd
 
 ## Acknowledgements
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
