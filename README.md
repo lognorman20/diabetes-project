@@ -18,7 +18,8 @@ https://github.com/KriAga/Pima-Indians-Diabetes-Dataset-Classification/blob/mast
 https://github.com/KriAga/Pima-Indians-Diabetes-Dataset-Classification/blob/master/EDA%20Diabetes.ipynb
 ### Data
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
-### Model Evaluation
+### Models
+https://www.kaggle.com/omkarsabnis/diabetes-prediction-using-ml-pima-dataset
 https://towardsdatascience.com/how-to-train-and-compare-machine-learning-models-with-few-lines-of-code-b1d5e1e266dd
 https://github.com/krishnaik06/Diabetes-Prediction/blob/master/Diabetes_Prediction.ipynb
 ## Acknowledgements
